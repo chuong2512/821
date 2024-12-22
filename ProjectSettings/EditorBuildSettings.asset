@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/LevelTemplate.unity
+    guid: 340cd1723a6fd49429d2b3ec6dd24298
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/LevelMenu.unity
+    guid: 5062b21f442144d778818188b6a46a87
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/MainMenu.unity
+    guid: 616f7f60637c745a99fd71eb9efa3cf5
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L01.unity
+    guid: 7b76d62a0d42f4891ac73bf5475d5c9b
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L02.unity
+    guid: 10ade59c1831c40bd92102261060c1ca
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L03.unity
+    guid: 3e934ac8ce30a4425a98d585b5733586
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L04.unity
+    guid: 8fa8f315b93ef4d53a4289c85ac871d1
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L05.unity
+    guid: 00b16e14ea8344e7bbcbe34c08db2fd2
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L06.unity
+    guid: 3783f7e091e404848a22ba02b0e8eac9
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L07.unity
+    guid: f1798ae568c6e464c85cb72082a9fa2b
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L08.unity
+    guid: 63b4b1c067aa14f4e87171da6fae699d
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L09.unity
+    guid: d1d53a8428a9647a79ebd7762c1f3c52
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L10.unity
+    guid: f3411f2a7bd1f4a9ca882c615d6f67b4
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L11.unity
+    guid: 212179405050b4e019b0ca1c238ed158
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L12.unity
+    guid: 50f65511902ad492988704267efa530b
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L13.unity
+    guid: 827fd8e8de32a457ba29fafe6c8fa728
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L14.unity
+    guid: 61a8877eb209640579fc7b6b40fb18eb
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L15.unity
+    guid: fa5058cc4299141c89e53f32d6e9df60
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L16.unity
+    guid: a2bcd3e30b8eb43babbb18cdf6feb8da
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L17.unity
+    guid: 7430ea4cb148f4be0aff0735cc06c6d7
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L18.unity
+    guid: 5b8a7ac21f17a4b6e8c918181ac696c6
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L19.unity
+    guid: 112ee2f9ecc4a4f9685431422e65b681
+  - enabled: 1
+    path: Assets/ShootingStar/Scene/Levels/L20.unity
+    guid: aec643e356d644931b997712900e1478
+  m_configObjects: {}
