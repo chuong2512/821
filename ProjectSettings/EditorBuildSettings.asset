@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/ShootingStar/Scene/MainMenu.unity
+    guid: 616f7f60637c745a99fd71eb9efa3cf5
+  - enabled: 1
     path: Assets/ShootingStar/Scene/LevelTemplate.unity
     guid: 340cd1723a6fd49429d2b3ec6dd24298
   - enabled: 1
     path: Assets/ShootingStar/Scene/LevelMenu.unity
     guid: 5062b21f442144d778818188b6a46a87
-  - enabled: 1
-    path: Assets/ShootingStar/Scene/MainMenu.unity
-    guid: 616f7f60637c745a99fd71eb9efa3cf5
   - enabled: 1
     path: Assets/ShootingStar/Scene/Levels/L01.unity
     guid: 7b76d62a0d42f4891ac73bf5475d5c9b
